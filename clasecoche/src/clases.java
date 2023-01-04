@@ -1,4 +1,4 @@
-public class App {
+public class clases {
     public static void main(String[] args) {
         coche coche1 = new coche();
         coche1.AñadirPuerta();

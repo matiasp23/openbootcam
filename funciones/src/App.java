@@ -5,7 +5,7 @@ public class App {
         int b=20;
         int c=30;
 
-        int resultado=suma(a,b,c);
+        int resultado = suma(a,b,c);
 
         System.out.println("El resultado es "+resultado);
     }
