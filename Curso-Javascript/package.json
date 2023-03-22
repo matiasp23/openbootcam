@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": " proyecto js",
+  "main": "index.js",
+  "scripts": {
+    "Start": "node index.js",
+    "Saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projecto",
+    "js"
+  ],
+  "author": "Matias Pedraza",
+  "license": "ISC"
+}
